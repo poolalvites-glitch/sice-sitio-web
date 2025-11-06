@@ -1,0 +1,5 @@
+
+Manual corto - SICE S.A.C. (sitio web)
+- Ejecutar: npm install && npm run dev
+- Reemplazar logos e imágenes en public/assets/
+- Formspree endpoint en src/App.jsx
