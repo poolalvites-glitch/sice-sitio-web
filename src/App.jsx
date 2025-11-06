@@ -112,7 +112,7 @@ export default function App() {
             </div>
           </div>
         </motion.section>
-        <!-- rest omitted for brevity in generation but included in final file -->
+        {/* rest omitted for brevity in generation but included in final file */}
       </main>
     </div>
   );
